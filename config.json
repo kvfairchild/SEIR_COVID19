@@ -1,0 +1,12 @@
+{
+    "model_type": "prevalence",
+    "model_name": "alhill_SEIR",
+    "model_id": "V0",
+    "input_models": [],
+    "model_parameters": {
+        "POPULATION": 6892503,
+        "INIT_INF": 300,
+        "DAY_0": "2/1/2020",
+        "INTERVENTION_DATE": "3/17/2020"
+    }
+}

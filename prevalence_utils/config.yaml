@@ -1,0 +1,4 @@
+POPULATION: 6892503             # approx total MA pop. as of July 2019 (https://www.census.gov/quickfacts/MA)
+INIT_INF: 300                   # guesstimate at initial exposed on 2/1/2020 (from 1 confirmed infection)
+DAY_0: 2/1/2020                 # first confirmed case in MA
+INTERVENTION_DATE: 3/17/2020    # https://www.bostonglobe.com/2020/03/15/nation/baker-closes-all-mass-schools-announces-restaurant-restrictions-bans-gatherings-over-25-people/?fbclid=IwAR242MbfVEJmFULmJwOIz7CP4d9xJWdktx_M5410X-tb4JqbWQjAsjttQL8
